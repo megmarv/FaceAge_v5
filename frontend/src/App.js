@@ -74,8 +74,8 @@ function App() {
                 );
                 drawingUtils.drawConnectors(
                   landmarks,
-                  FaceLandmarker.FACE_LANDMARKS_FACE_OVAL,n   fuck u
-                  { color: '#352e42' }
+                  FaceLandmarker.FACE_LANDMARKS_FACE_OVAL,
+                  { color: '#352e42' }   Fuck u
                 );
                 drawingUtils.drawConnectors(
                   landmarks,
